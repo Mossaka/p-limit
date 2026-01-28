@@ -9,7 +9,7 @@ on:
 
 engine:
   id: copilot
-  model: claude-sonnet-4-20250514
+  model: claude-sonnet-4
 
 network:
   firewall: true
